@@ -7,7 +7,7 @@
 		'seat3'
 		],
 		fly: function () {
-			alert ('VRAAAAU! Muito codêra...');
+			alert ('VRAAAAU! Muito codera...');
 		}
 	};
 	
